@@ -1,0 +1,60 @@
+/* TODO: design your profile with CSS */
+
+body {
+  background-color: #F7F9FC;
+}
+
+div {
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+  background: white;                         /* White background */
+  padding: 30px;                             /* Internal space */
+  border-radius: 4px;                        /* Small radius */
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+}
+
+h1 {
+  color: #575F7D;
+}
+
+img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+h2 {
+  color: #98D8A7;
+}
+
+p {
+  color: #575F7D;
+}
+
+a {
+  color: #fff;
+  background-color: #4B7BE5;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+a:hover {
+  background-color: #152a56;
+}
+
+.social-list {
+  list-style: none;
+  padding: 0;
+}
+
+.social-list li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.social-icon {
+  background-color: rgb(183, 183, 183);
+  font-size: 20px;
+  padding: 5px;
+}
